@@ -8,7 +8,7 @@
         "node-red": "^0.19.6",
         "node-red-contrib-iot-simulator": "file:nodes/iot-device-simulator-1-mqtt/node-red-contrib-iot-simulator",
         "node-red-contrib-mqtt-plus": "file:nodes/node-red-contrib-mqtt-plus",
-        "node-red-dashboard": "^3.1.7",
+        "node-red-dashboard": "^file:nodes/node-red-dashboard",
         "pg": "^8.3.0",
         "redis": "~0.10.1",
         "when": "~3.x"
